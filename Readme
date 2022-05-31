@@ -1,0 +1,25 @@
+🩹=What is this?=🩹
+
+VRChat에서의 사용을 상정한 잡아당겨 때어낼수있는 반창고입니다.
+피직스본과 애니메이션이 포함되어있으며, 반창고를 때어낼시 출혈효과 애니메이션이 재생됩니다.
+반창고에는 쉐이프키가 적용되어있으므로 아바타의 굴곡에따라 조정하시면 좋습니다.
+
+VRChatでの使用を想定した引っ張り剥がすことができる絆創膏です。
+フィジックスボーンとアニメーションが含まれており、絆創膏を剥がすと出血効果アニメーションが再生されます。
+絆創膏にはシェイプキーが適用されているので、アバターの屈曲に応じて調整するといいですよ。
+
+It's a detachable bandage intended for use in VRChat.
+Contains physics bone and animation, and the bleeding effect animation is played when the bandage is removed.
+The bandage has a shape key, so you can adjust it according to the flexion of the avatar.
+
+
+=NOTE=
+
+패키지에 포함된 마테리얼은 유니티 빌트인 쉐이더를 사용하였습니다만, 각자아바타에 맞는 쉐이더로 변경해 사용하시면 보기 더 좋습니다.
+
+The material included in the package used a Unity built-in shader, but it looks better if you change it to a shader that fits your avatar.
+
+パッケージに含まれるマテリアルはユニティビルトインシェーダーを使用していますが、それぞれアバターに合わせたシェーダーに変更してお使いいただくとよりよいでしょう。
+
+=License=
+The MIT License (MIT) Copyright (c) 2022 5Sori Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
